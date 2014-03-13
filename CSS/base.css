@@ -44,5 +44,6 @@ header {
 article {
     clear: both;
 }
-footer { font-size: 10px;
+footer { font-size: 12px;
+    background-color: #e5e5e5
 }
