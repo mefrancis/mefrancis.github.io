@@ -4,14 +4,26 @@
     padding: 0;
 }
 header nav {
- margin-top: 250px;
     padding-right: 20px;
     float: right;
     font-size: 30 px;
     font-weight: 500px;
     font-family: sans-serif;
     text-transform:uppercase;
+    margin: 25px;
 }
+h1 { font-family: ‘ 'Montez', cursive; 
+    font-weight: 400; 
+    margin: 30px;
+    font-size: 200px;
+    font-weight: 500;
+}
+hr {
+    height:7px;
+    color: #000000;
+    background: #000000;
+    margin: 25px;
+ }
 title {
  align-items: : center;   
 }
@@ -20,14 +32,18 @@ header a {
     color: #000000;
     text-decoration: none;
     float: right;
-    margin-right: 10px;   
+    margin-right: 25px;  
 }
-article h2 { font-family: sans-serif;
+    header h1 {
+     margin:25px;
+}
+ article h2 { font-family: sans-serif;
     font-size: 32px;
     color: #000000;
     line-height: 40px;
     font-weight: 100;
     margin-top: 10px;
+    margin: 25px;
     
 }
 header a:visited {
@@ -36,8 +52,7 @@ header a:visited {
 }
 
 article { font-family: sans-serif;
-    padding: 0 10px 0 10px;
-    margin-top: 10px; 
+    margin: 25px;
 }
 
 body {
@@ -46,10 +61,11 @@ body {
     line-height: 24px;
     padding: 10px;
     padding-bottom: 80px;
+    margin: 25px;
 }
 
 p {
-    margin-bottom: 24px;
+    margin: 25px;
 }
 article {
     clear: both;
